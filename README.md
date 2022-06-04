@@ -24,3 +24,6 @@ Confidence is the likelihood that item Y is also bought if item X is bought. Itâ
 Frequent Item Set
 An itemset whose support is greater than or equal to a minSup threshold
 Frequent itemsets or also known as frequent pattern simply means all the itemsets that the support satisfies the minimum support threshold.
+
+Libraries used: pandas, numpy, apyori, mlxtend.frequent_patterns (association_rules, apriori)
+--
